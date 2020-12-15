@@ -3,7 +3,7 @@ body {
     font-size: 1.3rem;
     line-height: 1.5;
     color: #121212;
-    background-image: url("assets/paper_texture.webp");
+    background-image: url("/assets/paper_texture.webp");
 }
 
 .container {
